@@ -1,4 +1,3 @@
-# Codeforces-add-friends
 # Codeforces Friend Adder
 
 This Python script automates the process of adding friends on Codeforces.
